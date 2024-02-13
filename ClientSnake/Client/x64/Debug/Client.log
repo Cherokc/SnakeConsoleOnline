@@ -1,0 +1,11 @@
+﻿  Client.cpp
+C:\Work))\c++\lr3\Client\Client\Client.cpp(43,21): warning C4309: =: усечение константного значения
+C:\Work))\c++\lr3\Client\Client\Client.cpp(45,21): warning C4309: =: усечение константного значения
+C:\Work))\c++\lr3\Client\Client\Client.cpp(47,21): warning C4309: =: усечение константного значения
+C:\Work))\c++\lr3\Client\Client\Client.cpp(49,21): warning C4309: =: усечение константного значения
+C:\Work))\c++\lr3\Client\Client\Client.cpp(51,21): warning C4309: =: усечение константного значения
+C:\Work))\c++\lr3\Client\Client\Client.cpp(53,21): warning C4309: =: усечение константного значения
+C:\Work))\c++\lr3\Client\Client\Client.cpp(188,22): warning C4244: инициализация: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Work))\c++\lr3\Client\Client\Client.cpp(211,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work))\c++\lr3\Client\Client\Client.cpp(301,30): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Client.vcxproj -> C:\Work))\c++\lr3\Client\x64\Debug\Client.exe

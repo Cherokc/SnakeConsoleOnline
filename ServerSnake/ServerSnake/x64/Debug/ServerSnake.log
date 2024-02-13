@@ -1,0 +1,11 @@
+﻿  ServerSnake.cpp
+C:\Work))\TestPractice\ServerSnake\ServerSnake\ServerSnake.cpp(232,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Work))\TestPractice\ServerSnake\ServerSnake\ServerSnake.cpp(248,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Work))\TestPractice\ServerSnake\ServerSnake\ServerSnake.cpp(291,9): warning C4309: =: усечение константного значения
+C:\Work))\TestPractice\ServerSnake\ServerSnake\ServerSnake.cpp(293,9): warning C4309: =: усечение константного значения
+C:\Work))\TestPractice\ServerSnake\ServerSnake\ServerSnake.cpp(295,9): warning C4309: =: усечение константного значения
+C:\Work))\TestPractice\ServerSnake\ServerSnake\ServerSnake.cpp(297,9): warning C4309: =: усечение константного значения
+C:\Work))\TestPractice\ServerSnake\ServerSnake\ServerSnake.cpp(299,9): warning C4309: =: усечение константного значения
+C:\Work))\TestPractice\ServerSnake\ServerSnake\ServerSnake.cpp(301,9): warning C4309: =: усечение константного значения
+C:\Work))\TestPractice\ServerSnake\ServerSnake\ServerSnake.cpp(493,21): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+  ServerSnake.vcxproj -> C:\Work))\TestPractice\ServerSnake\x64\Debug\ServerSnake.exe
